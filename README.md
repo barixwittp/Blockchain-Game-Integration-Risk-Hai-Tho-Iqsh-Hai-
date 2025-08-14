@@ -183,10 +183,6 @@ npx hardhat test
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## ⚠️ Disclaimer
 
 This is a demonstration project for educational purposes. Use at your own risk. Always audit smart contracts before deploying to mainnet with real funds.
