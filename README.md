@@ -10,6 +10,11 @@ A full-stack blockchain-based coin flip betting game where players use GameToken
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 
+## youtube link
+
+<a href="https://youtu.be/OX09eumvptQ" target="_blank">Video Explanation</a>
+
+
 ## 🎮 Game Features
 
 - **Buy GameTokens**: Convert USDT to GT tokens at 1:1 ratio
