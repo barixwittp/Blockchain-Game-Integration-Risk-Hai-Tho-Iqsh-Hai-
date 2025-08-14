@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Coin Flip Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🪙 Blockchain Coin Flip</h1>
+            <div class="wallet-section">
+                <button id="connectWallet" class="btn btn-primary">Connect Wallet</button>
+                <div id="walletInfo" class="wallet-info hidden">
+                    <span id="walletAddress"></span>
+                    <span id="gtBalance">0 GT</span>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <!-- Buy Tokens Section -->
+            <section class="card">
+                <h2>💰 Buy Game Tokens</h2>
+                <div class="form-group">
+                    <label for="usdtAmount">USDT Amount:</label>
+                    <input type="number" id="usdtAmount" placeholder="Enter USDT amount" min="1" step="0.01">
+                    <button id="buyTokens" class="btn btn-secondary">Buy GT Tokens</button>
+                </div>
+                <p class="rate-info">Rate: 1 USDT = 1 GT</p>
+            </section>
+
+            <!-- Game Section -->
+            <section class="card">
+                <h2>🎮 Coin Flip Game</h2>
+                <div id="gameArea">
+                    <div class="game-setup">
+                        <div class="form-group">
+                            <label>Choose your side:</label>
+                            <div class="choice-buttons">
+                                <button id="choiceHeads" class="btn choice-btn" data-choice="HEADS">
+                                    🪙 HEADS
+                                </button>
+                                <button id="choiceTails" class="btn choice-btn" data-choice="TAILS">
+                                    🪙 TAILS
+                                </button>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="stakeAmount">Stake Amount (GT):</label>
+                            <input type="number" id="stakeAmount" placeholder="Enter stake amount" min="1" step="0.1">
+                        </div>
+                        <button id="startGame" class="btn btn-primary" disabled>Find Match</button>
+                    </div>
+
+                    <div id="gameStatus" class="game-status hidden">
+                        <div class="status-message">
+                            <h3 id="statusTitle">Searching for opponent...</h3>
+                            <p id="statusMessage">Please wait while we find a player with the opposite choice and same stake.</p>
+                        </div>
+                        <div class="match-info hidden" id="matchInfo">
+                            <h4>Match Found!</h4>
+                            <p><strong>Match ID:</strong> <span id="matchId"></span></p>
+                            <p><strong>Opponent:</strong> <span id="opponentAddress"></span></p>
+                            <p><strong>Your Choice:</strong> <span id="yourChoice"></span></p>
+                            <p><strong>Stake:</strong> <span id="matchStake"></span> GT</p>
+                            <button id="stakeTokens" class="btn btn-primary">Stake Tokens</button>
+                        </div>
+                        <div class="game-result hidden" id="gameResult">
+                            <h4>Game Result</h4>
+                            <div class="coin-flip">
+                                <div id="coinResult" class="coin">🪙</div>
+                                <p><strong>Result:</strong> <span id="flipResult"></span></p>
+                            </div>
+                            <p id="winnerMessage"></p>
+                            <p id="transactionLink" class="hidden">
+                                <a href="#" target="_blank">View on Blockchain Explorer</a>
+                            </p>
+                            <button id="playAgain" class="btn btn-secondary">Play Again</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Leaderboard Section -->
+            <section class="card">
+                <h2>🏆 Leaderboard</h2>
+                <div id="leaderboard" class="leaderboard">
+                    <div class="loading">Loading leaderboard...</div>
+                </div>
+            </section>
+
+            <!-- Recent Matches -->
+            <section class="card">
+                <h2>📊 Recent Activity</h2>
+                <div id="recentMatches" class="recent-matches">
+                    <p>No recent matches</p>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="https://cdn.ethers.io/lib/ethers-5.7.2.umd.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
