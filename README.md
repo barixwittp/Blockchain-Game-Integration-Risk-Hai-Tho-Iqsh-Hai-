@@ -2,6 +2,14 @@
 
 A full-stack blockchain-based coin flip betting game where players use GameTokens (GT) to bet on coin flip outcomes. Built with Solidity smart contracts, Node.js backend, and vanilla HTML/CSS/JavaScript frontend.
 
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&color=grey" alt="Express.js" /></a>
+<a href="https://docs.soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
+<a href="https://ethers.io/" target="_blank"><img src="https://img.shields.io/badge/Ethers.js-blue?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers.js" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+
 ## 🎮 Game Features
 
 - **Buy GameTokens**: Convert USDT to GT tokens at 1:1 ratio
