@@ -234,3 +234,15 @@ npx hardhat test
 <a href="/imagess/v0-blockchain-web-app.vercel.app_.png" target="_blank">
   <img src="/imagess/v0-blockchain-web-app.vercel.app_.png" alt="Deployed App Preview" width="300">
 </a>
+
+<h2>System Architecture</h2>
+
+<a href="https://v0-blockchain-web-app.vercel.app/" target="_blank">
+  <img src="/imagess/1.png" alt="Screenshot 1" width="300">
+</a>
+<a href="https://v0-blockchain-web-app.vercel.app/" target="_blank">
+  <img src="/imagess/2.png" alt="Screenshot 2" width="300">
+</a>
+<a href="https://v0-blockchain-web-app.vercel.app/" target="_blank">
+  <img src="/imagess/3.png" alt="Screenshot 3" width="300">
+</a>
