@@ -191,3 +191,23 @@ npx hardhat test
 ## ⚠️ Disclaimer
 
 This is a demonstration project for educational purposes. Use at your own risk. Always audit smart contracts before deploying to mainnet with real funds.
+
+<h2>Screenshots</h2>
+
+<ul>
+  <li><a href="/imagess/Screenshot 2025-08-14 154002.png" target="_blank">Screenshot 2025-08-14 15:40:02</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154014.png" target="_blank">Screenshot 2025-08-14 15:40:14</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154039.png" target="_blank">Screenshot 2025-08-14 15:40:39</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154047.png" target="_blank">Screenshot 2025-08-14 15:40:47</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154059.png" target="_blank">Screenshot 2025-08-14 15:40:59</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154105.png" target="_blank">Screenshot 2025-08-14 15:41:05</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154117.png" target="_blank">Screenshot 2025-08-14 15:41:17</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154135.png" target="_blank">Screenshot 2025-08-14 15:41:35</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154148.png" target="_blank">Screenshot 2025-08-14 15:41:48</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154446.png" target="_blank">Screenshot 2025-08-14 15:44:46</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154452.png" target="_blank">Screenshot 2025-08-14 15:44:52</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154458.png" target="_blank">Screenshot 2025-08-14 15:44:58</a></li>
+  <li><a href="/imagess/Screenshot 2025-08-14 154507.png" target="_blank">Screenshot 2025-08-14 15:45:07</a></li>
+  <li><a href="/imagess/v0-blockchain-web-app.vercel.app_.png" target="_blank">Deployed App Preview</a></li>
+</ul>
+
