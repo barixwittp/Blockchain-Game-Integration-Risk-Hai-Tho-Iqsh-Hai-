@@ -1,4 +1,4 @@
-# Blockchain Coin Flip Game
+# Blockchain Coin Flip Game - link : <a href="https://v0-blockchain-web-app.vercel.app/" target="_blank">Live Web App</a>
 
 A full-stack blockchain-based coin flip betting game where players use GameTokens (GT) to bet on coin flip outcomes. Built with Solidity smart contracts, Node.js backend, and vanilla HTML/CSS/JavaScript frontend.
 
