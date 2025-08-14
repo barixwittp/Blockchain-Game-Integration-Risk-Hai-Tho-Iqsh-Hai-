@@ -189,6 +189,7 @@ npx hardhat test
 5. Open Pull Request
 
 ## ⚠️ Disclaimer
+
 <h2>Screenshots</h2>
 
 <a href="/imagess/Screenshot 2025-08-14 154002.png" target="_blank">
@@ -212,7 +213,24 @@ npx hardhat test
 <a href="/imagess/Screenshot 2025-08-14 154117.png" target="_blank">
   <img src="/imagess/Screenshot 2025-08-14 154117.png" alt="Screenshot 2025-08-14 15:41:17" width="300">
 </a>
-<a href="/imagess/Screenshot 2025-08-14 15413
-
-This is a demonstration project for educational purposes. Use at your own risk. Always audit smart contracts before deploying to mainnet with real funds.
-
+<a href="/imagess/Screenshot 2025-08-14 154135.png" target="_blank">
+  <img src="/imagess/Screenshot 2025-08-14 154135.png" alt="Screenshot 2025-08-14 15:41:35" width="300">
+</a>
+<a href="/imagess/Screenshot 2025-08-14 154148.png" target="_blank">
+  <img src="/imagess/Screenshot 2025-08-14 154148.png" alt="Screenshot 2025-08-14 15:41:48" width="300">
+</a>
+<a href="/imagess/Screenshot 2025-08-14 154446.png" target="_blank">
+  <img src="/imagess/Screenshot 2025-08-14 154446.png" alt="Screenshot 2025-08-14 15:44:46" width="300">
+</a>
+<a href="/imagess/Screenshot 2025-08-14 154452.png" target="_blank">
+  <img src="/imagess/Screenshot 2025-08-14 154452.png" alt="Screenshot 2025-08-14 15:44:52" width="300">
+</a>
+<a href="/imagess/Screenshot 2025-08-14 154458.png" target="_blank">
+  <img src="/imagess/Screenshot 2025-08-14 154458.png" alt="Screenshot 2025-08-14 15:44:58" width="300">
+</a>
+<a href="/imagess/Screenshot 2025-08-14 154507.png" target="_blank">
+  <img src="/imagess/Screenshot 2025-08-14 154507.png" alt="Screenshot 2025-08-14 15:45:07" width="300">
+</a>
+<a href="/imagess/v0-blockchain-web-app.vercel.app_.png" target="_blank">
+  <img src="/imagess/v0-blockchain-web-app.vercel.app_.png" alt="Deployed App Preview" width="300">
+</a>
